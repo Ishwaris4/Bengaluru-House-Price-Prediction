@@ -33,3 +33,21 @@ Bengaluru House Prices Dataset
 pip install -r requirements.txt
 
 python server.py
+
+
+# Result
+## Home Page
+
+![Home Page](screenshots/Home.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result](screenshots/Prediction.png)
+
+---
+
+## Location Drop-down 
+
+![Location Drop-down](screenshots/Locations.png)
